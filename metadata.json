@@ -1,0 +1,6 @@
+{
+  "name": "Nexus 4B Chat",
+  "description": "A high-performance chat interface for a smart, all-rounder LLM assistant tailored for coding and general queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
